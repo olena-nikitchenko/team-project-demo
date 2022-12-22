@@ -1,0 +1,24 @@
+/* палітра кольорів */
+/* колір основного тексту #757575 */
+/* колір другорядного тексту #212121 */
+/* акцент #2196F3*/
+/* колір тексту logo #000000 */
+/* білий колір тексту та основного фону #FFFFFF */
+/* колір фону hero та footer #2F303A*/
+/* другорядний колір фону #F5F4FA */
+/* колір рамок елеметів портфоліо #EEEEEE */
+/* колір іконок соцмереж #AFB1B8 */
+:root {
+  --primery-text-color: #757575;
+  --secondary-text-color: #212121;
+  --accent-color: #2196f3;
+  --accent-button: #c4c4c4;
+  --logo-text-color: #000000;
+  --white-text-bg: #ffffff;
+  --bg-color-hero-footer: #2f303a;
+  --bg-secondary-color: #f5f4fa;
+  --border-color-portfolio: #eeeeee;
+  --border-color-header: #ececec;
+  --bg-secondary-network: #afb1b8;
+  --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
